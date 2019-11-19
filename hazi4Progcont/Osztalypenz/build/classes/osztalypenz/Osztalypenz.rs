@@ -1,0 +1,2 @@
+osztalypenz.Zh
+osztalypenz.Osztalypenz
